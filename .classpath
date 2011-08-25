@@ -1,0 +1,24 @@
+<classpath>
+  <classpathentry output=".target\scala-2.9.0.1\classes" kind="src" path="src\main\scala"></classpathentry>
+  <classpathentry output=".target\scala-2.9.0.1\classes" kind="src" path="src\main\resources"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\org.swift.common\jira-soap\jars\jira-soap-4.4.0.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\commons-discovery\commons-discovery\jars\commons-discovery-0.2.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\commons-logging\commons-logging\jars\commons-logging-1.1.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\log4j\log4j\jars\log4j-1.2.12.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\logkit\logkit\jars\logkit-1.0.1.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\avalon-framework\avalon-framework\jars\avalon-framework-4.1.3.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\javax.servlet\servlet-api\jars\servlet-api-2.3.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\axis\axis\jars\axis-1.4.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\org.apache.axis\axis-jaxrpc\jars\axis-jaxrpc-1.4.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\org.apache.axis\axis-saaj\jars\axis-saaj-1.4.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\axis\axis-wsdl4j\jars\axis-wsdl4j-1.5.1.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\org.swift.common\confluence-soap\jars\confluence-soap-3.5.2.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\ch.qos.logback\logback-classic\jars\logback-classic-0.9.29.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\ch.qos.logback\logback-core\jars\logback-core-0.9.29.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.1.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\.ivy2\cache\org.scala-tools.testing\specs_2.9.0-1\jars\specs_2.9.0-1-1.6.8.jar"></classpathentry>
+  <classpathentry kind="lib" path="C:\Users\rikiya\IdeaProjects\app\scalatlas\project\boot\scala-2.9.0-1\lib\scala-compiler.jar"></classpathentry>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"></classpathentry>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"></classpathentry>
+  <classpathentry kind="output" path=".target\scala-2.9.0.1\classes"></classpathentry>
+</classpath>
